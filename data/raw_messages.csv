@@ -1,0 +1,76 @@
+message,label
+"bhai mera order abhi tak nahi aaya, refund chahiye",refund_request
+"maine cancel kar diya tha order but paisa wapas nahi aaya",refund_request
+"product damaged mila, mujhe refund chahiye jaldi se",refund_request
+"can I get a refund for this order, it's been 10 days",refund_request
+"wrong item bheja hai aapne, refund process karo please",refund_request
+"paisa kab tak account mein aayega, refund request kiye 5 din ho gaye",refund_request
+"item return karna hai, full refund chahiye",refund_request
+"quality bahut kharab thi, please refund my money",refund_request
+"mujhe ye product nahi chahiye, refund kar do",refund_request
+"double payment ho gaya galti se, ek refund kar dijiye",refund_request
+"refund status check karna tha, koi update nahi mil raha",refund_request
+"is order ka paisa wapas chahiye, delivery bhi late thi",refund_request
+"main satisfied nahi hoon, refund process shuru kijiye",refund_request
+"trial period khatam hone se pehle cancel kiya, refund milega na",refund_request
+"galat size aaya hai, exchange nahi refund chahiye",refund_request
+"app baar baar crash ho raha hai login karte time",technical_problem
+"payment fail ho raha hai but paisa cut ho gaya",technical_problem
+"website load nahi ho raha hai kal se",technical_problem
+"OTP nahi aa raha hai mobile pe, login nahi kar pa raha",technical_problem
+"app hang ho jata hai jaise hi main cart open karta hoon",technical_problem
+"password reset link kaam nahi kar raha",technical_problem
+"order track nahi ho raha, app mein error aa raha hai",technical_problem
+"my account got logged out automatically and now it's not letting me back in",technical_problem
+"upload karte time file error de raha hai baar baar",technical_problem
+"notification aana band ho gaya hai app se",technical_problem
+"checkout page pe stuck ho ja raha hoon, next nahi ho raha",technical_problem
+"app update ke baad se sab kuch slow chal raha hai",technical_problem
+"payment gateway error dikha raha hai UPI try karte time",technical_problem
+"search feature kaam nahi kar raha app mein",technical_problem
+"video call connect nahi ho raha customer support se",technical_problem
+"mera bill zyada aaya hai is mahine, samajh nahi aa raha",billing_issue
+"extra charge kaat liya gaya hai bina bataye",billing_issue
+"subscription ka paisa do baar cut ho gaya",billing_issue
+"invoice mein galat amount dikha raha hai",billing_issue
+"maine plan cancel kiya tha phir bhi charge aa gaya",billing_issue
+"GST calculation galat lag raha hai bill mein",billing_issue
+"discount apply nahi hua tha but poora price charge ho gaya",billing_issue
+"why was I charged twice for the same order",billing_issue
+"late fee laga diya hai jabki maine time pe pay kiya tha",billing_issue
+"renewal ka paisa kaat liya bina confirmation ke",billing_issue
+"coupon code use kiya tha fir bhi full price charge hua",billing_issue
+"mera plan upgrade hua hi nahi but paisa zyada kata",billing_issue
+"credit card se galat amount debit hua hai",billing_issue
+"annual plan ka charge monthly jaisa dikha raha hai",billing_issue
+"pichle mahine ka bill abhi tak nahi mila email pe",billing_issue
+"service bahut kharab hai, staff rude tha",complaint
+"delivery boy ne bahut badtameezi se baat ki",complaint
+"customer care se baat karna bahut mushkil hai, koi response nahi milta",complaint
+"3 din se complaint kar raha hoon koi solution nahi mila",complaint
+"product ki quality bilkul bhi acchi nahi thi",complaint
+"packaging bahut kharab thi, saman toota hua mila",complaint
+"aapki service se main bahut disappointed hoon",complaint
+"staff ne properly guide nahi kiya store mein",complaint
+"waiting time bahut zyada hai support ka",complaint
+"same problem baar baar ho rahi hai, koi fix nahi kar raha",complaint
+"customer support agent ne call disconnect kar diya beech mein",complaint
+"itni mehngi service ke liye ye quality expected nahi thi",complaint
+"complaint register karne ke baad bhi kuch nahi hua",complaint
+"delivery 5 din late hui bina koi update ke",complaint
+"main dusri baar complain kar raha hoon isi issue ke liye",complaint
+"aapka store kab tak khula rehta hai",general_query
+"is product ki warranty kitne saal ki hai",general_query
+"kya cash on delivery available hai is area mein",general_query
+"return policy kya hai aapki",general_query
+"delivery mein kitna time lagega mere area mein",general_query
+"kya main order ke baad address change kar sakta hoon",general_query
+"aapke paas ye product kis kis color mein available hai",general_query
+"student discount milta hai kya aapke yahan",general_query
+"how do I contact customer support directly",general_query
+"kya COD available hai is product ke liye",general_query
+"installment mein payment kar sakte hain kya",general_query
+"aapka customer care number kya hai",general_query
+"is service ke liye kya documents chahiye honge",general_query
+"weekend pe bhi delivery hoti hai kya",general_query
+"international shipping available hai kya",general_query
