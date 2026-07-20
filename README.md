@@ -1,3 +1,6 @@
+# Hinglish Support Ticket Classifier
+
+Fine-tuned **MuRIL** (a multilingual transformer pretrained on 17 Indian languages) to classify customer support messages written in Hindi, English, and Hinglish (code-mixed) into 5 categories — built to solve a real problem: generic English-first NLP models struggle with the way Indian users actually type.
 
 ## The Problem
 
